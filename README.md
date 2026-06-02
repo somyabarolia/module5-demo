@@ -1,8 +1,10 @@
 # module5-demo
 This is my first Git Repository.
 <br>
-Author - Somya
+Author - Somya 
 <br>
 Learning Git and GitHub
 <br>
-Changed directly from github
+Modified status
+<br>
+Change file
