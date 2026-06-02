@@ -4,3 +4,5 @@ This is my first Git Repository.
 Author - Somya
 <br>
 Learning Git and GitHub
+<br>
+Changed directly from github
