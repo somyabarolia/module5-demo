@@ -2,3 +2,5 @@
 This is my first Git Repository.
 <br>
 Author - Somya
+<br>
+Learning Git and GitHub
